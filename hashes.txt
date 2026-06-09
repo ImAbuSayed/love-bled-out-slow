@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Love Bled Out Slow
+
+This log tracks the cryptographic history and versioning for the song **Love Bled Out Slow** (love-bled-out-slow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T16:34:31.382444 | `v1` | `3bba733653609aa6ed1041c75b61acf2659d2f47505e37e02f53091b286492a4` | `36ba86d77ef0f6951d092bbd01fa8a1bacaa1d8c0e9a3c7b0ff847dcd0dccc49` | `2026-06-09_love-bled-out-slow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
