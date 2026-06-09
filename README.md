@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-bled-out-slow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Love Bled Out Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-bled-out-slow/) |
+| **Get License** | [Official Music Licensing for Love Bled Out Slow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-bled-out-slow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a shadow in the glass and let it breathe
+> Pull the midnight down around us, soft and sweet
+> I can taste the quiet fire in your stare
+> Let the world outside surrender, I don’t care
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
